@@ -19,6 +19,7 @@ print("hello i am %s my age is %d and my percentage is %f"%(name,age,percentage)
 #formatting of X hex
 o=16
 print("Number is %X"%(o))
+print("Number is %x"%(o))
 #formatting of octal
 p=7
 print("Number is %o"%(p))
